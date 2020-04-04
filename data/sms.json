@@ -1,0 +1,177 @@
+{
+    "bih": [
+        {
+            "operater": "BH Telecom",
+            "broj": "091 611 201",
+            "cijena": "1.20 KM + PDV"
+        },
+        {
+            "operater": "Eronet",
+            "broj": "091 611 201",
+            "cijena": "1.20 KM + PDV"
+        },
+        {
+            "operater": "MTel",
+            "broj": "091 611 201",
+            "cijena": "1.38 KM + PDV"
+        }
+    ],
+    "countries": [
+        {
+            "drzava": "Njemačka",
+            "flag": "germany.png",
+            "broj": "44144",
+            "cijena": "1.99 EUR"
+        },
+        {
+            "drzava": "Austrija",
+            "flag": "austria.png",
+            "broj": "900506506",
+            "cijena": "2.00 EUR"
+        },
+        {
+            "drzava": "Australija",
+            "flag": "australia.png",
+            "broj": "19707799",
+            "cijena": "4.00 EUR"
+        },
+        {
+            "drzava": "Švedska",
+            "flag": "sweden.png",
+            "broj": "72027",
+            "cijena": "20.00 NOK"
+        },
+        {
+            "drzava": "Danska",
+            "flag": "denmark.png",
+            "broj": "1963",
+            "cijena": "20.00 DKK"
+        },
+        {
+            "drzava": "Norveša",
+            "flag": "norway.png",
+            "broj": "2227",
+            "cijena": "20.00 NOK"
+        },
+        {
+            "drzava": "Finska",
+            "flag": "finland.png",
+            "broj": "17271",
+            "cijena": "2.00 EUR"
+        },
+        {
+            "drzava": "Belgija",
+            "flag": "belgium.png",
+            "broj": "3211",
+            "cijena": "1.50 EUR"
+        },
+        {
+            "drzava": "Luksemburg",
+            "flag": "luxembourg.png",
+            "broj": "64747",
+            "cijena": "1.50 EUR"
+        },
+        {
+            "drzava": "Italija",
+            "flag": "italy.png",
+            "broj": "4882880",
+            "cijena": "1.00 EUR"
+        },
+        {
+            "drzava": "Francuska",
+            "flag": "france.png",
+            "broj": "71004",
+            "cijena": "1.50 EUR"
+        },
+        {
+            "drzava": "Holandija",
+            "flag": "netherlands.png",
+            "broj": "5035",
+            "cijena": "1.50 EUR"
+        },
+        {
+            "drzava": "Velika Britanija",
+            "flag": "united-kingdom.png",
+            "broj": "68899",
+            "cijena": "1.50 GBP"
+        },
+        {
+            "drzava": "Srbija",
+            "flag": "serbia.png",
+            "broj": "1551",
+            "cijena": "88.50 DIN"
+        },
+        {
+            "drzava": "Slovenija",
+            "flag": "slovenia.png",
+            "broj": "3838",
+            "cijena": "1.49 EUR"
+        },
+        {
+            "drzava": "Švicarska",
+            "flag": "switzerland.png",
+            "broj": "9292",
+            "cijena": "2.00 EUR"
+        },
+        {
+            "drzava": "Makedonija",
+            "flag": "republic-of-macedonia.png",
+            "broj": "141991",
+            "cijena": "106.20 MKD"
+        },
+        {
+            "drzava": "Crna Gora",
+            "flag": "montenegro.png",
+            "broj": "14941",
+            "cijena": "0.60 EUR"
+        },
+        {
+            "drzava": "Hrvatska",
+            "flag": "croatia.png",
+            "broj": "667667",
+            "cijena": "6.20 HRK"
+        },
+        {
+            "drzava": "Rusija",
+            "flag": "russia.png",
+            "broj": "8935",
+            "cijena": "35.00 RUR"
+        },
+        {
+            "drzava": "Ukrajina",
+            "flag": "ukraine.png",
+            "broj": "4422",
+            "cijena": "6.00 UAK"
+        },
+        {
+            "drzava": "Kanada",
+            "flag": "canada.png",
+            "broj": "88188",
+            "cijena": "3.00 CAD"
+        },
+        {
+            "drzava": "Turska",
+            "flag": "turkey.png",
+            "broj": "3929",
+            "cijena": "1.00 EUR"
+        },
+        {
+            "drzava": "Rumunija",
+            "flag": "romania.png",
+            "broj": "1288",
+            "cijena": "1.10 EUR"
+        },
+        {
+            "drzava": "Irska",
+            "flag": "ireland.png",
+            "broj": "57252",
+            "cijena": "2.50 EUR"
+        },
+        {
+            "drzava": "Kosovo",
+            "flag": "kosovo.png",
+            "broj": "55155",
+            "cijena": "0.93 EUR"
+        }
+    ]
+}
